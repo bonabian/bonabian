@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ferhad Bonabian
+# Farhad Bonabian
 
 ### AI Systems Developer
 
